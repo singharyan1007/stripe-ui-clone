@@ -1,0 +1,1 @@
+# A clone of stripe landing page for practicing React.js
